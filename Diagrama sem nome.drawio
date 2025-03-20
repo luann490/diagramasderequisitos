@@ -406,12 +406,6 @@
             <mxPoint x="340" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L9UMEcQ49tyPgzLBVpIu-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="L9UMEcQ49tyPgzLBVpIu-28" target="L9UMEcQ49tyPgzLBVpIu-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="L9UMEcQ49tyPgzLBVpIu-28" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="740" y="250" width="30" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
