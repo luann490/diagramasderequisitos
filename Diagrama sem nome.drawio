@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3" pages="7">
   <diagram name="1-13/03/25" id="j4p6nWPHgVY7ch05wNxx">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -517,7 +517,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-HK6Dz6-eR9eUIvnnxcS" name="6-26/03/25">
-    <mxGraphModel dx="977" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
+    <mxGraphModel dx="842" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -709,6 +709,59 @@
         </mxCell>
         <mxCell id="deA0VnqHVSBh5F4HTsPA-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.007;entryY=-0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="deA0VnqHVSBh5F4HTsPA-37" target="deA0VnqHVSBh5F4HTsPA-45">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ENwzFwJ33BuDnqON0HI0" name="7-27/03/25">
+    <mxGraphModel dx="1221" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bgVM3WHnDajmint1-NZW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bgVM3WHnDajmint1-NZW-6" target="bgVM3WHnDajmint1-NZW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bgVM3WHnDajmint1-NZW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bgVM3WHnDajmint1-NZW-6" target="bgVM3WHnDajmint1-NZW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bgVM3WHnDajmint1-NZW-6" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bgVM3WHnDajmint1-NZW-7" value="abrir chamados" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bgVM3WHnDajmint1-NZW-8" value="acompanhar&lt;div&gt;chamados&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="150" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bgVM3WHnDajmint1-NZW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bgVM3WHnDajmint1-NZW-12" target="bgVM3WHnDajmint1-NZW-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bgVM3WHnDajmint1-NZW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bgVM3WHnDajmint1-NZW-12" target="bgVM3WHnDajmint1-NZW-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bgVM3WHnDajmint1-NZW-12" value="Técnico" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bgVM3WHnDajmint1-NZW-13" value="resolver chamados" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bgVM3WHnDajmint1-NZW-14" value="atualizar&lt;div&gt;chamados&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bgVM3WHnDajmint1-NZW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bgVM3WHnDajmint1-NZW-17" target="bgVM3WHnDajmint1-NZW-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bgVM3WHnDajmint1-NZW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bgVM3WHnDajmint1-NZW-17" target="bgVM3WHnDajmint1-NZW-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bgVM3WHnDajmint1-NZW-17" value="Gestor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bgVM3WHnDajmint1-NZW-18" value="atribuir tarefas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="260" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bgVM3WHnDajmint1-NZW-19" value="gerar&lt;div&gt;relatórios&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
