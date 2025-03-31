@@ -764,7 +764,7 @@
           <mxGeometry x="200" y="400" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HZzn99f6VNIKF6JPgOEM-1" value="Chamado" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="505" width="180" height="160" as="geometry" />
+          <mxGeometry x="550" y="390" width="180" height="160" as="geometry" />
         </mxCell>
         <mxCell id="HZzn99f6VNIKF6JPgOEM-2" value="+ ID: string&lt;div&gt;+ Descrição: string&lt;/div&gt;&lt;div&gt;+ Status: string&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="HZzn99f6VNIKF6JPgOEM-1">
           <mxGeometry y="26" width="180" height="64" as="geometry" />
@@ -776,7 +776,7 @@
           <mxGeometry y="98" width="180" height="62" as="geometry" />
         </mxCell>
         <mxCell id="HZzn99f6VNIKF6JPgOEM-5" value="Cliente" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="495" width="190" height="170" as="geometry" />
+          <mxGeometry x="160" y="500" width="190" height="170" as="geometry" />
         </mxCell>
         <mxCell id="HZzn99f6VNIKF6JPgOEM-6" value="+ ID: string&lt;div&gt;+ Nome: string&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="HZzn99f6VNIKF6JPgOEM-5">
           <mxGeometry y="26" width="190" height="74" as="geometry" />
@@ -788,7 +788,7 @@
           <mxGeometry y="108" width="190" height="62" as="geometry" />
         </mxCell>
         <mxCell id="HZzn99f6VNIKF6JPgOEM-9" value="Técnico" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="630" width="200" height="170" as="geometry" />
+          <mxGeometry x="460" y="640" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="HZzn99f6VNIKF6JPgOEM-10" value="+ ID: string&lt;div&gt;+ Especialista: string&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="HZzn99f6VNIKF6JPgOEM-9">
           <mxGeometry y="26" width="200" height="74" as="geometry" />
