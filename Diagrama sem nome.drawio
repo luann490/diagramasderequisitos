@@ -918,7 +918,7 @@
           <mxGeometry y="108" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dwIcR9DakLm0jfEVNaUt-14" value="Passageiro" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="260" width="160" height="134" as="geometry" />
+          <mxGeometry x="334" y="260" width="160" height="134" as="geometry" />
         </mxCell>
         <mxCell id="dwIcR9DakLm0jfEVNaUt-15" value="+ ID: ?&lt;div&gt;+ nome: ?&lt;/div&gt;&lt;div&gt;+ Passaporte: ?&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="dwIcR9DakLm0jfEVNaUt-14">
           <mxGeometry y="26" width="160" height="74" as="geometry" />
@@ -930,7 +930,7 @@
           <mxGeometry y="108" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dwIcR9DakLm0jfEVNaUt-22" value="Aeronave" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="260" width="160" height="134" as="geometry" />
+          <mxGeometry x="550" y="260" width="160" height="134" as="geometry" />
         </mxCell>
         <mxCell id="dwIcR9DakLm0jfEVNaUt-23" value="+ ID: ?&lt;div&gt;+ modelo: ?&lt;/div&gt;&lt;div&gt;+ capacidade: ?&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="dwIcR9DakLm0jfEVNaUt-22">
           <mxGeometry y="26" width="160" height="74" as="geometry" />
